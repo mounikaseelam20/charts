@@ -1,0 +1,20 @@
+#row2 div {
+    margin-right: 14px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 242px;
+    height: 222px;
+    margin-bottom: 50px;
+    box-shadow: 1px 5px 3px #888888;
+}
+
+
+input[type=search]{
+  border: none;
+  background:none;
+  border-bottom: 3px solid black; 
+}
+.footer{
+  bottom:0px;
+  position: fixed;
+}
